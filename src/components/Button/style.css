@@ -1,0 +1,17 @@
+button {
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+}
+
+.sucesso {
+  background-color: green;
+}
+
+.alerta {
+  background-color: red;
+}
